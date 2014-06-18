@@ -1,0 +1,10 @@
+1: "I can do that\n" - {'style': 'Heading 1'}
+3: "I gotta piss\n" - {'style': 'Heading 1'}
+4:[133-158] "Do you believe that shit?" - {'formattings': ['underline']}
+5: "We happy?\n" - {'style': 'Heading 1'}
+6:[118-269] "Do you see a little Asian child with a blank expression on his face sitting outside on a mechanical helicopter that shakes when you put quarters in it?" - {'formattings': ['bold']}
+7: "Uuummmm, this is a tasty burger!\n" - {'style': 'Heading 1'}
+8:[335-347] "motherfucker" - {'formattings': ['italic']}
+8:[443-455] "motherfucker" - {'formattings': ['italic']}
+9: "I'm serious as a heart attack\n" - {'style': 'Heading 1'}
+10:[182-194] "Motherfucker" - {'formattings': ['italic']}

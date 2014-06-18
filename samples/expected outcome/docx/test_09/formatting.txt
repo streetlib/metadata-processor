@@ -1,0 +1,18 @@
+1-3: - {'structure': 'line-block'}
+1: - {'style': 'Heading 1'}
+2: - {'style': 'Heading 2'}
+4-6: - {'structure': 'line-block'}
+5: - {'style': 'Heading 2'}
+7-12: - {'structure': 'line-block'}
+8: - {'style': 'Heading 1'}
+9: - {'style': 'Heading 2'}
+11: - {'style': 'Heading 3'}
+13: - {'structure': 'line-block'}
+14-16: - {'structure': 'line-block'}
+15: - {'style': 'Heading 3'}
+17: - {'structure': 'line-block'}
+18: - {'structure': 'line-block'}
+19: - {'structure': 'line-block'}
+20-22: - {'structure': 'line-block'}
+21: - {'style': 'Heading 2'}
+23: - {'structure': 'line-block'}

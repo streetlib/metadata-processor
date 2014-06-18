@@ -1,0 +1,10 @@
+Why should I care?
+Substance provides a flexible architecture, involving an extensible document format and protocol, collaborative features, an extensible editor as well as a digital hub for sharing documents.
+Semantic Editing
+Unlike traditional word-processors, Substance focuses on content, by leaving the layout part to the system, not the user. Because of the absence of formatting utilities, it suggests structured, content-orented writing.
+Content is data
+Substance considers content as data, which allows digital documents to be queried like a database. With little effort, you can take the Substance data format and display it your way. The possibilities range from powering your blog with your Substance documents to distributing them as eBooks or mobile-optimized versions.
+Collaboration
+Substance targets open collaboration. Everyone should be able to contribute to a document, without the hurdles. We claim that it is easier to reach quality if you publish early and provide an easy way for collaboration. With Substance users can annotate and comment on certain portions of the document.
+Extensible
+Since Substance exposes content as data, extensibility is a natural implication. Substance comes with a predfined set of element types. Out of the box you can choose from headings, text and images. However, it’s easy to implement your own element types, and use it with your tailored version of the Substance editor.

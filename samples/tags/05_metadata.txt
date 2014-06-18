@@ -1,0 +1,3 @@
+2:[36-65] "dead as fucking fried chicken" - {'tags': ['slang']}
+2:[270-296] "too much shit this morning" - {'tags': ['slang']}
+2:[331-344] "your dumb ass" - {'tags': ['slang']}

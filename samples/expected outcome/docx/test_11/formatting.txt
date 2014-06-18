@@ -1,0 +1,2 @@
+1: "First line\rsecond line\n" - {'structure': 'line-block'}
+1:[19-23] "line" - {'formattings': ['italic']}

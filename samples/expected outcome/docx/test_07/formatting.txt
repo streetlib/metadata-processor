@@ -1,0 +1,1 @@
+1:[1-43] "Paragraph with trailing and closing spaces" - {'formattings': ['italic']}

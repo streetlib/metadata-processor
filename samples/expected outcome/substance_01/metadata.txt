@@ -1,0 +1,9 @@
+1: "Why should I care?\n" - {'style': 'heading'}
+2:[69-97] "document format and protocol" - {'annotation': {'type': 'idea', 'content': 'We should add a link to the Substance Document documentation page.', 'created_at': '2012-11-05T16:33:20.048Z', 'user': 'michael'}}
+2:[126-143] "extensible editor" - {'annotation': {'type': 'question'}}
+3: "Semantic Editing\n" - {'style': 'heading'}
+3:[1-9] "Semantic" - {'annotation': {'type': 'question', 'content': 'What does semantic mean in that context?', 'created_at': '2012-11-05T18:17:13.146Z', 'user': 'wilma'}}
+4:[195-210] "content-orented" - {'annotation': {'type': 'error', 'content': 'There\'s a typo here. It must read "content-oriented".', 'created_at': '2012-11-05T16:50:20.984Z', 'user': 'michael'}}
+5: "Content is data\n" - {'style': 'heading'}
+7: "Collaboration\n" - {'style': 'heading'}
+9: "Extensible\n" - {'style': 'heading'}
